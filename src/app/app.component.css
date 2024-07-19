@@ -1,0 +1,74 @@
+#main-container{
+    height: 556px;
+    width: 20%;
+    position: relative;
+    top: 10px;
+    border-radius: 25px;
+    background-color: #2a2e33;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+#keys{
+    width: 107%;
+    height: 55%;
+    position: relative;
+    top: 75px;
+    left: 9px;
+    border-radius: 25px;
+    
+}
+button{
+    width: 56px;
+    height: 50px;
+    font-size: 18px;
+    border: none;
+    color: white;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    border-radius: 12px;
+    margin-top: 3px;
+    background-color: #282D31;
+}
+#division{
+    background-image: url("../../assets//theme/devide.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 23px;
+}
+#multi{
+    background-image: url("../../assets//theme/multiply.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 23px; 
+}
+#minus{
+    background-image: url("../../assets//theme/minus.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 23px; 
+}
+#plus{
+    background-image: url("../../assets//theme/plus.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 23px; 
+}
+#backspace{
+    background-image: url("../../assets//theme/return.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 23px; 
+}
+#equal{
+    background-image: url("../../assets//theme/equal.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 23px; 
+}
+#btnAC{
+    color: #00B35D !important;
+}
+#btnRST{
+    color: #00B35D !important;
+}
+#btn{
+    color: #00B35D !important;
+}
